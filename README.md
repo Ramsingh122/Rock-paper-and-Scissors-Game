@@ -64,4 +64,4 @@ else:
     print('\n........You lose the game.......\n')
     print('Your score:', score1)
     print('CPU score:', score2)
-print('\n...................THANK YOU.................\n')
+print('Thank you...... Best of Luck')
